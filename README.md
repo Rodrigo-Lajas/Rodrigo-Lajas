@@ -1,4 +1,4 @@
-# 💻 [Tu Nombre]
+# 💻 [Rodrigo Lajas]
 
 ¡Hola! Soy Rodrigo Lajas, un desarrollador frontend apasionado por la tecnología y el aprendizaje continuo. 
 Me especializo en construir interfaces de usuario interactivas y eficientes utilizando **React** y **Tailwind CSS**. 
