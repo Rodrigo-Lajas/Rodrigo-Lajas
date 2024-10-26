@@ -20,8 +20,9 @@ Actualmente, estoy en un proceso constante de aprendizaje para mejorar mis habil
 A continuación, algunos de los proyectos en los que he trabajado recientemente:
 
 - **Portfolio (www.rodrigolajas.com.ar):** Pagina web personal donde muestro los proyectos creados y mis habilidades adquiridas. [React. Tailwind]
-
-Puedes encontrar más de mis proyectos en la sección de repositorios.
+- **Tienda de teléfonos celulares (https://tienda-de-telefonos-celulares.vercel.app/):** Proyecto con el cual finalicé el curso de React.js en Coderhouse, finalizando así la carrera de Frontend Developer propuesta por la institución.
+- **Tienda de guitarras (https://tienda-de-guitarras-one.vercel.app/):** Proyecto con el cual finalicé el curso de JavaScript, dictado en Coderhouse. [HTML, CSS, JS]
+- **Houston Guitar Shop (https://houstonguitarshop.vercel.app/):** Proyecto con el cual finalicé el curso de Desarrollo Web, en Coderhouse. [HTML, CSS, SASS, Bootstrap]
 
 ---
 
