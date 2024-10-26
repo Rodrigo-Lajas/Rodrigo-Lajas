@@ -28,9 +28,9 @@ A continuación, algunos de los proyectos en los que he trabajado recientemente:
 
 ## 📫 Contacto
 
-- **LinkedIn:** [rodrigolajas](http://linkedin.com/in/rodrigolajas)
-- **X (Twitter):** [rodrigolajas](https://x.com/rodrigolajas)
-- **Email:** [rodrigolajas18@gmail.com](mailto:rodrigolajas18@gmail.com)
+- **LinkedIn:** [rodrigolajas](http://linkedin.com/in/rodrigolajas_blank)
+- **X (Twitter):** [rodrigolajas](https://x.com/rodrigolajas_blank)
+- **Email:** [rodrigolajas18@gmail.com](mailto:rodrigolajas18@gmail.com_blank)
 
 ---
 
