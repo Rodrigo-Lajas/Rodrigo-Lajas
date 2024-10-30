@@ -19,16 +19,24 @@ Actualmente, estoy en un proceso constante de aprendizaje para mejorar mis habil
 
 A continuación, algunos de los proyectos en los que he trabajado recientemente:
 
-- **Portfolio (www.rodrigolajas.com.ar):** Pagina web personal donde muestro los proyectos creados y mis habilidades adquiridas. [React. Tailwind]
+- **Portfolio (www.rodrigolajas.com.ar):**
+  Pagina web personal donde muestro los proyectos creados y mis habilidades adquiridas.
+[React. Tailwind]
 ![Portfolio personal](https://github.com/Rodrigo-Lajas/Rodrigo-Lajas/blob/main/Portfolio.png)
 
-- **Tienda de teléfonos celulares (https://tienda-de-telefonos-celulares.vercel.app/):** Proyecto con el cual finalicé el curso de React.js en Coderhouse, finalizando así la carrera de Frontend Developer propuesta por la institución.
+- **Tienda de teléfonos celulares (https://tienda-de-telefonos-celulares.vercel.app/):**
+  Proyecto con el cual finalicé el curso de React.js en Coderhouse, finalizando así la carrera de Frontend Developer propuesta por la institución.
+[React, Bootstrap, Router Dom]
 ![Tienda de teléfonos celulares](https://github.com/Rodrigo-Lajas/Rodrigo-Lajas/blob/main/tiendaDeTelefonosCelulares.png)
 
-- **Tienda de guitarras (https://tienda-de-guitarras-one.vercel.app/):** Proyecto con el cual finalicé el curso de JavaScript, dictado en Coderhouse. [HTML, CSS, JS]
+- **Tienda de guitarras (https://tienda-de-guitarras-one.vercel.app/):**
+  Proyecto con el cual finalicé el curso de JavaScript, dictado en Coderhouse.
+  [HTML, CSS, JavaScript]
 ![Tienda de guitarras](https://github.com/Rodrigo-Lajas/Rodrigo-Lajas/blob/main/tiendaDeGuitarras.png)
 
-- **Houston Guitar Shop (https://houstonguitarshop.vercel.app/):** Proyecto con el cual finalicé el curso de Desarrollo Web, en Coderhouse. [HTML, CSS, SASS, Bootstrap]
+- **Houston Guitar Shop (https://houstonguitarshop.vercel.app/):**
+  Proyecto con el cual finalicé el curso de Desarrollo Web, en Coderhouse.
+  [HTML, CSS, SASS, Bootstrap]
 ![Houston Guitar Shop](https://github.com/Rodrigo-Lajas/Rodrigo-Lajas/blob/main/houstonGuitarShop.png)
 
 ---
